@@ -39,9 +39,9 @@ Coffee : Rs.80
 
 1. Clone the repository or download the code:
    ```bash
-   git clone https://github.com/your-username/restaurant-ordering-system.git
-   cd restaurant-ordering-system
-   python restaurant.py
+   git clone https://github.com/Yash7720/Simple-Python-Restaurant-Ordering-System.git
+   cd Simple-Python-Restaurant-Ordering-System
+   python hotelmenu.py
 
 Sample Output
 Welcome to our PYTHON restaurant  
